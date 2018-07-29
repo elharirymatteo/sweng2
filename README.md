@@ -7,11 +7,16 @@ This project aims at designing an electric-car sharing software system. Car Shar
 Release folder contains the following documents:
 
 RASD: Requirement analysis and specification document
+
 DD: Design Document
+
 ITPD: Integration test plan document
+
 PPD: Project plan document
 
 # Authors
 Davide Cattaneo
+
 Matteo El Hariry
+
 Francesco Frontino
